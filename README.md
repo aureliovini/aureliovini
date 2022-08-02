@@ -9,7 +9,6 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aureliovini&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=aureliovini&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliovini&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <div>
