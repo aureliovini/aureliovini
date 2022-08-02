@@ -4,7 +4,7 @@
 
 <div>
   <p align="center"><img src="https://gpvc.arturio.dev/aureliovini" /></p>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=aureliovini"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=aureliovini&theme=darkhub"/>
 </div>
 
 <div>
