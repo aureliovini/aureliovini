@@ -1,7 +1,20 @@
-### Olá, eu sou o Aurélio Vinícius. 👋
-
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aureliovini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliovini&layout=compact&langs_count=16&theme=dracula"/>
+  <h1 align="center">Olá, eu sou o Aurélio Vinícius. 👋</h1>
 </div>
 
+<div>
+  <p align="center"><img src="https://gpvc.arturio.dev/aureliovini" /></p>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=aureliovini"/>
+</div>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aureliovini&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=aureliovini&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureliovini&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+</div>
+<div>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+</div>
